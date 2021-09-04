@@ -1,0 +1,38 @@
+body
+{
+background-image: url("https://bit.ly/3n2ApIN");
+background-size: 100% 100%;
+}
+.box
+{
+height:450px;
+width:320px;
+margin-left:100px;
+background-color:green;
+border-radius:20px;
+}
+.displaydesign
+{
+background color:#64d5c6;
+font-size:38px;
+height:110px;
+width:320px;
+border-top-left-radius:14px;
+border-top-right-radius:14px;
+font-weight700;
+color:#5e5858;
+}
+.buttondesign
+{
+width:60px;
+height:60px;
+background:#ecedef;
+font-size:30px;
+font-weight:700'
+color:#5E5858;;
+border:none;
+border-radius:50%;
+cursor:pointer;
+margin:20px 5px 0px 10px;
+outline:none;
+}
